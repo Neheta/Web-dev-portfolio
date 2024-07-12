@@ -17,7 +17,7 @@ nav{
 }
 .nav-title{
     font-weight:bold ;
-    font-size: 28px;
+    font-size: 38px;
 }
 nav ul li{
     list-style:none;
@@ -33,23 +33,23 @@ nav ul li{
     padding: 14px 131px;
     margin: auto;
     background-color:white;
-    height:652px;
+    height:1000px;
     width: 100%;
     background-image: url(Hero-bg.png);
-    background-size: cover;
+   
     align-items: center;
     display: flex;
     justify-content: center;
     letter-spacing: 0px;
    
 }
-.pcl{
-    font-weight: normal;
-}
+
+    
+
 .b-banner{ 
     
-    height: 581px;
-    width:998px ;
+    height:900px;
+    width:9000px ;
 
     display: flex;
     align-items: center;
@@ -57,29 +57,32 @@ nav ul li{
     flex-direction: column;
   
    text-align: center;
-   font-size: large;
+   
    
    letter-spacing: 0px;
 
 }
 .banner-contents{
-    font-size: 22px;
-    font-weight: 90px;
+    font-size: 34px;
+    font-weight: 190px;
     text-decoration: rgb(0, 0, 0);
-    letter-spacing: -1px;
+    letter-spacing: -1px;}
     
-    
-}
+.web{
+    font-weight: normal;
+    font-size: 33px }
+
+
 .boy{
-  height: 240px;
-  width: 240.28px;
+  height: 340px;
+  width: 340.28px;
 }
 .cm{
     margin: auto;
    border-radius: 8px;
-    height: 48px;
-    width: 190px;
-    font-size: medium;
+    height: 58px;
+    width: 290px;
+    font-size: large;
     font-style: normal;
     color: aliceblue;
 
@@ -97,5 +100,296 @@ nav ul li{
     font-size: medium;
     letter-spacing: 1px;
 }
+.all{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 40px;
+    padding: 50px;
+    height: 8000px;
+}
+.firstpage{
+box-sizing: border-box;
+border-radius: 30px;
+margin: 97px 80px ;
+padding: 80px 97px;
+height:2500px;
+width: 2500px;
+background-color: rgba(189, 199, 199, 0.069);
+text-align: center;
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+   
+}
+.header{
+    font-size: 45px;
+    line-height: 50px;
+    
+}
+.allfirstp{
+    border: 1px;
+    border-radius:30px;
+    height:1900px;
+    width:1500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+/*first section*/
+.firstpage-content{
+  background-color:white;
+  margin: auto;
+  padding: 50px 50px;
+ border-radius: 30px;
+  height:560px;
+  width: 1710px;
+  display: flex;
+  justify-content: space-between;
+ 
+ 
+}
+ 
+.change{
+    border: 20px;
+    height:200px;
+    width: 500px;
+    padding-left: 60px;
+    display: flex;
+    flex-direction: column;
+ 
+}
+.p-1{ 
+    font-size: 29px;
+    font-style: normal;
+    text-align: left;
+    color: rgba(86, 78, 78, 0.976);
+    
+    display: flex;
+    flex-direction: column;
+    letter-spacing: 1px;
+    justify-content: space-between;
+    }
+
+
+    
+
+.firstleftp{
+    padding-bottom: 70px;
+}
+.LM{
+    height:150px;
+    width:200px;
+    margin:1px;
+    padding: 16px;
+    font-size:25px;
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.825);
+    color: rgba(86, 78, 78, 0.976);
+    letter-spacing:1px;
+}
+    
+.img{
+    margin:0px;
+    padding: 10px;
+    height:100%;
+    width:500px;
+}
+/*second section*/
+ .firstpage-content-2{
+    border-radius: 30px;
+    background-color:white;
+    margin: auto;
+    padding: 50px 50px;
+    
+      
+    height:500px;
+    width: 1710px;
+    display: flex;
+   
+ }
+ .Modern{
+    border: 20px;
+    height:200px;
+    width: 800px;
+    padding-left: 60px;
+    display: flex;
+    flex-direction: column;
+ }
+ .p-3{
+    font-size: 29px;
+    font-style: normal;
+    text-align: left;
+    color: rgba(86, 78, 78, 0.976);
+    
+    display: flex;
+    flex-direction: column;
+    letter-spacing: 1px;
+    justify-content: space-between;
+ }
+ /*third section*/
+ .firstpage-content-3{
+border-radius: 30px;
+ background-color:white;
+ margin: auto;
+ padding: 50px;   
+ height:560px;
+ width: 1710px;
+ display: flex;
+ justify-content: space-between;
+ align-items:normal;
+ }
+ .change-2{
+    border: 20px;
+    height:200px;
+    width: 500px;
+    padding-left: 60px;
+    display: flex;
+    flex-direction: column;
+ }
+ .p-4{
+    font-size: 29px;
+    font-style: normal;
+    text-align: left;
+    color: rgba(86, 78, 78, 0.976);
+    
+    display: flex;
+    flex-direction: column;
+    letter-spacing: 1px;
+    justify-content: space-between;
+ }
+ .secondpage{
+margin: 80px;
+padding: 100px 50px;
+height:975px;
+width: 2000px;
+
+text-align: center;
+   
+ }
+.vid{
+
+    border-radius:40px;
+    height:900px ;
+    width:2000px;
+    
+    padding: 6px 70px;}
+.thirdpage{
+
+       text-align: center;
+        border-radius: 19px;
+        margin: 300px;
+        
+        height:900px;
+        width: 2000px;
+        
+        
+           
+}
+.skills-container{
+    
+    display: flex;
+    text-align: left;
+    gap: 29px;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.skill{
+    border-radius: 20px;
+    padding: 50px;
+    height: 460px;
+    width: 600px;
+
+   
+}
+.html{
+    background-color: rgba(243, 214, 214, 0.412);
+
+}
+.css{
+    background-color: rgba(206, 225, 244, 0.426);
+}
+.js{
+    background-color: rgba(255, 252, 196, 0.524);
+}
+.desc{
+    
+    letter-spacing: 0px;
+}
+.learnlink{
+    
+    font-size: 29px;
+    font-style: normal;
+    text-align: left;
+    color: black;
+}
+.Skill-title{
+    font-size: 45px;
+    line-height: 50px;
+}
+.logo{
+    height:70px;
+    width: 80px;
+}
+.handshake{
+    box-sizing: border-box;
+border-radius: 30px;
+margin: 4px 80px ;
+padding: 10px 97px;
+height:900px;
+width: 2500px;
+background-position:center;
+background-size: cover;
+ background-image:url(handshake.jpg);  
+}
+.box{
+    padding: 150px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 50px;
+    color: white;
+}
+.good{
+    font-size: 35px;
+}
+.sugg{
+    height: 90px;
+    width: 690px;
+    font-size: 40px;
+    border-radius: 20px;
+    padding: 30px;
+    
+}
+::placeholder{
+    color: rgba(144, 139, 139, 0.695);
+    letter-spacing: 3px;
+}
+.sub{ 
+    height: 152px;
+    width: 300px;
+    font-size: 40px;
+    border-radius: 20px;
+    padding: 30px;
+    font-weight: 400;
+
+}
+footer{
+    font-size:50px;
+    font-weight: bold;
+    padding: 10px 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(128, 128, 128, 0.079);
+}
+    
+
+    
 
 
